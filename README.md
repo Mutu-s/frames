@@ -51,8 +51,10 @@ Daha sonra, Auth Token’ınızı ekleyin:
 3. Farcaster Frames’e Bağlantı
 
  https://warpcast.com/~/developers/frames    adresine gidin.
+
  
-   ![image](https://github.com/user-attachments/assets/e1f3f31d-83e9-4667-b5a1-fcb5f360b3d8)
+   ![image](https://github.com/user-attachments/assets/aeea3d2a-a9b3-4b6d-b3e5-f1befea61ffb)
+
 
 Launch Frame bölümüne aşağıdaki bilgileri girin:
 
@@ -71,4 +73,5 @@ Son olarak, Frame’inizin akıllı kontrat ile etkileşime geçtiğinden ve ba�
 Bu adımları tamamladıktan sonra, projeniz Farcaster Frames üzerinde çalışmaya hazır olacaktır.
 
 
- ![image](https://github.com/user-attachments/assets/f563edd9-8226-4a71-98d3-75c4858694f2)
+ ![image](https://github.com/user-attachments/assets/ebab2301-bed4-46e3-815c-fa063659f165)
+
